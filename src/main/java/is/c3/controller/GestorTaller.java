@@ -33,7 +33,7 @@ public class GestorTaller {
 		
 	}
     private void printData() {
-    	System.out.println("Dispositivos registrados en el taller:");
+    	System.out.println("Dispositivos registrados en el taller de TYC7650:");
 		// Mostrar todas los dispositivos registrados
 		System.out.println(ref.findAll());
     	
